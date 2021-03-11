@@ -4,7 +4,7 @@
 <head>
 </head>
 <body>
-
+<h3>
 <table>
   <tr>
     <th>Sr. no.</th>
@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td><h2>Todo App made using Flask (Python web framework)</h2></td>
+    <td>Todo App made using Flask (Python web framework)</td>
     <td><a href="https://todo-jay.herokuapp.com/" target="_blank"><Button type="button">Visit!</Button></a>
 </td>
   </tr>
