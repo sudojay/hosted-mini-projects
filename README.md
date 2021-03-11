@@ -14,7 +14,7 @@
   <tr>
     <td>1</td>
     <td><h2>Todo App made using Flask (Python web framework)</h2></td>
-    <td><a href="https://todo-jay.herokuapp.com/"><Button type="button">Visit!</Button></a>
+    <td><a href="https://todo-jay.herokuapp.com/" target="_blank"><Button type="button">Visit!</Button></a>
 </td>
   </tr>
   
